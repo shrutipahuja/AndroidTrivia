@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/482337111/AndroidTrivia-Starter.iml" filepath="$PROJECT_DIR$/.idea/modules/482337111/AndroidTrivia-Starter.iml" group="AndroidTrivia-Starter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="AndroidTrivia-Starter/app" />
+    </modules>
+  </component>
+</project>
